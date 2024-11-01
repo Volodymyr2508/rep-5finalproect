@@ -100,5 +100,15 @@ main{
     transition: 1s;
 }
 .a1{
-    color: black;
-    margin-top: ;
+        margin: 10px;
+position: absolute;
+top: 65px;
+left: 400px;
+font-size: 25px;
+text-decoration: none;
+color: white;
+width: ;
+height: ;
+background-color: red;
+border-radius: 10px;
+}
